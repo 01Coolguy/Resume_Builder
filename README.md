@@ -32,3 +32,5 @@ freshers in their domain or if they don't have enough
 idea about the resume or don't have enough time to 
 create the resume of good designs or patterns, then 
 this platform is a very productive place for them.**
+![WhatsApp Image 2022-08-06 at 3 37 40 PM](https://user-images.githubusercontent.com/110630419/183244889-3f5c5b6e-bb56-4ebc-ac56-ac47f29f8539.jpeg)
+![WhatsApp Image 2022-08-06 at 3 37 40 PM (1)](https://user-images.githubusercontent.com/110630419/183244908-a523f7ec-6eaf-4b34-879e-1db61e5bfa85.jpeg)
