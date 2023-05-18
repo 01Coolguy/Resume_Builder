@@ -20,7 +20,7 @@ reduce the manual work for
 managing the resume , job, 
 jobseeker, individual. It tracks 
 all the details about the 
-individual, skills, qualification
+individual, skills, qualification,
 
 
 
