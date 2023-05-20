@@ -1,7 +1,4 @@
 # Resume_Builder
-# Online RESUME BUILDER
-
-
 The main objective of the 
 Online Resume Builder is to 
 manage the details of Resume, 
